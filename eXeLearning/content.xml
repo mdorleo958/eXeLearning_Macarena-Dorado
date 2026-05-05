@@ -1,0 +1,1580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>zen</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260505162545R2UUV7</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260505162545ZH1GLC</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Sda. El Sistema Circulatorio</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Anatomía Aplicada 1ºBachillerato</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Macarena Dorado León</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Desarrollo de la Situación de Aprendizaje sobre la anatomía y fisiología del sistema circulatorio. Destinada a alumnado de 1ºBachillerato dentro de la asignatura optativa de Anatomía Aplicada. </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>zen</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777987932243</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-moso3wim-yh9qf0vsv</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SDA. EL SISTEMA CIRCULATORIO</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SDA. EL SISTEMA CIRCULATORIO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SDA. EL SISTEMA CIRCULATORIO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>SDA. EL SISTEMA CIRCULATORIO</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moso3wim-yh9qf0vsv</odePageId>
+      <odeBlockId>block-1777910460596-a6dnb9058</odeBlockId>
+      <blockName>SdA. El sistema circulatorio</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moso3wim-yh9qf0vsv</odePageId>
+          <odeBlockId>block-1777910460596-a6dnb9058</odeBlockId>
+          <odeIdeviceId>idevice-1777910460592-neqh09sxs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="560" height="314" src="https://www.youtube.com/embed/pTOLtFilVMw" allowfullscreen="allowfullscreen"></iframe></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777910460592-neqh09sxs","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/pTOLtFilVMw\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moso3wiw-40pfpwvod</odePageId>
+  <odeParentPageId>page-moso3wim-yh9qf0vsv</odeParentPageId>
+  <pageName>1._Introducción a la SdA</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1._Introducción a la SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1._Introducción a la SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1._Introducción a la SdA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moso3wiw-40pfpwvod</odePageId>
+      <odeBlockId>block-1777906599963-oox9e0rq4</odeBlockId>
+      <blockName>PROYECTO SdA. Sistema Circulatorio</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moso3wiw-40pfpwvod</odePageId>
+          <odeBlockId>block-1777906599963-oox9e0rq4</odeBlockId>
+          <odeIdeviceId>idevice-1777906599958-820zkdctp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p> <strong>SdA.Sistema Circulatorio.</strong></p>
+<p>A continuación observamos una pequeña guía que desarrolla los aspectos más relevantes de la SdA a tratar.</p>
+<p><a href="https://www.canva.com/design/DAHECf1KBFQ/f9Et7Fd-y7F7_5l2oTIn-g/edit?utm_content=DAHECf1KBFQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" title="Nuestro proyecto SdA">Nuestro proyecto</a></p>
+<p><a href="https://www.canva.com/design/DAHECf1KBFQ/f9Et7Fd-y7F7_5l2oTIn-g/edit?utm_content=DAHECf1KBFQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" title="Nuestro proyecto SdA"><img src="{{context_path}}/content/resources/1.png" width="1280" height="720" alt="" /></a></p>
+<p><img src="{{context_path}}/content/resources/3.png" width="1280" height="720" alt="" /></p>
+<p><img src="{{context_path}}/content/resources/6.png" width="1280" height="720" alt="" /></p>
+<p><img src="{{context_path}}/content/resources/8.png" width="1280" height="720" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777906599958-820zkdctp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p> <strong>SdA.Sistema Circulatorio.</strong></p>\n<p>A continuación observamos una pequeña guía que desarrolla los aspectos más relevantes de la SdA a tratar.</p>\n<p><a href=\"https://www.canva.com/design/DAHECf1KBFQ/f9Et7Fd-y7F7_5l2oTIn-g/edit?utm_content=DAHECf1KBFQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton\" title=\"Nuestro proyecto SdA\">Nuestro proyecto</a></p>\n<p><a href=\"https://www.canva.com/design/DAHECf1KBFQ/f9Et7Fd-y7F7_5l2oTIn-g/edit?utm_content=DAHECf1KBFQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton\" title=\"Nuestro proyecto SdA\"><img src=\"{{context_path}}/content/resources/1.png\" width=\"1280\" height=\"720\" alt=\"\" /></a></p>\n<p><img src=\"{{context_path}}/content/resources/3.png\" width=\"1280\" height=\"720\" alt=\"\" /></p>\n<p><img src=\"{{context_path}}/content/resources/6.png\" width=\"1280\" height=\"720\" alt=\"\" /></p>\n<p><img src=\"{{context_path}}/content/resources/8.png\" width=\"1280\" height=\"720\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moso3wiz-27otny4u2</odePageId>
+  <odeParentPageId>page-moso3wim-yh9qf0vsv</odeParentPageId>
+  <pageName>2._Curación de contenidos</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2._Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2._Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moso3wiz-27otny4u2</odePageId>
+      <odeBlockId>block-1777907403619-kmyxscmbh</odeBlockId>
+      <blockName>Padlet</blockName>
+      <iconName>pieces</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moso3wiz-27otny4u2</odePageId>
+          <odeBlockId>block-1777907403619-kmyxscmbh</odeBlockId>
+          <odeIdeviceId>idevice-1777907403615-6iraw2ydz</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/mdorleo958/anatom-a-aplicada-9zmg2jyrzbxso5h2" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moso3wiz-27otny4u2</odePageId>
+      <odeBlockId>block-1777907852636-2xzyv4wj6</odeBlockId>
+      <blockName>Symbaloo</blockName>
+      <iconName>piece</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moso3wiz-27otny4u2</odePageId>
+          <odeBlockId>block-1777907852636-2xzyv4wj6</odeBlockId>
+          <odeIdeviceId>idevice-1777907852633-it51mvck3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Symbaloo con toda la información necesaria en esta SdA.</p>
+<p>En él podrás encontrar: </p>
+<p>- Aspectos teóricos</p>
+<p>- Vídeos explicativos</p>
+<p>- Videos de prácticas de laboratorio (disección de corazón)</p>
+<p>- Tareas a realizar</p>
+<p>- Cuestionario online</p>
+<p><a href="https://www.symbaloo.com/shared/AAAABnczLygAA42ADtFRWw==" title=""><img src="{{context_path}}/content/resources/imagen Symbaloo.JPG" width="1280" height="721" alt="" /></a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777907852633-it51mvck3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Symbaloo con toda la información necesaria en esta SdA.</p>\n<p>En él podrás encontrar: </p>\n<p>- Aspectos teóricos</p>\n<p>- Vídeos explicativos</p>\n<p>- Videos de prácticas de laboratorio (disección de corazón)</p>\n<p>- Tareas a realizar</p>\n<p>- Cuestionario online</p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAABnczLygAA42ADtFRWw==\" title=\"\"><img src=\"{{context_path}}/content/resources/imagen Symbaloo.JPG\" width=\"1280\" height=\"721\" alt=\"\" /></a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moso3wj2-4cv6fphqc</odePageId>
+  <odeParentPageId>page-moso3wim-yh9qf0vsv</odeParentPageId>
+  <pageName>3._Licencias y seguridad</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3._Licencias y seguridad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3._Licencias y seguridad</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3._Licencias y seguridad</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moso3wj2-4cv6fphqc</odePageId>
+      <odeBlockId>block-1777908370876-cem9ytga4</odeBlockId>
+      <blockName>Licencias y seguridad</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moso3wj2-4cv6fphqc</odePageId>
+          <odeBlockId>block-1777908370876-cem9ytga4</odeBlockId>
+          <odeIdeviceId>idevice-1777908370870-2nt5x65lc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://canva.link/ew7ms7b9a3hifu1"><strong title="">Protección de datos personales y garantías de derechos digitales</strong></a></p>
+<ol>
+<li>No compartas información personal en internet.</li>
+<li>Procurar tener contraseñas seguras seguras en tus cuentas.</li>
+<li>No aceptes solicitud de desconocidos.</li>
+<li>Nunca descargues software de sitios web desconocidos.</li>
+<li>Aprender a reconocer el phising</li>
+<li>Verifica la configuración de la privacidad en tus redes sociales y en cualquier sitio web que utilices</li>
+<li>Recuerda que todo lo que haces en línea deja un rastro digital.</li>
+<li>Habla con un adulto de confianza si te sientes incómodo/a o inseguro en<br />línea.</li>
+<li>Aprender a identificar el ciberacoso y cómo denunciarlo a las autoridades.</li>
+<li>Lee siempre los términos y condiciones de condiciones de cualquier sitio web o aplicación que utilices.</li>
+</ol>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/XnhB7_5tLr8" allowfullscreen="allowfullscreen"></iframe></p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/WXVsbFLUfIQ" allowfullscreen="allowfullscreen"></iframe></p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/oF0JKaJJFso" allowfullscreen="allowfullscreen"></iframe></p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/oF0JKaJJFso" allowfullscreen="allowfullscreen"></iframe></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777908370870-2nt5x65lc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://canva.link/ew7ms7b9a3hifu1\"><strong title=\"\">Protección de datos personales y garantías de derechos digitales</strong></a></p>\n<ol>\n<li>No compartas información personal en internet.</li>\n<li>Procurar tener contraseñas seguras seguras en tus cuentas.</li>\n<li>No aceptes solicitud de desconocidos.</li>\n<li>Nunca descargues software de sitios web desconocidos.</li>\n<li>Aprender a reconocer el phising</li>\n<li>Verifica la configuración de la privacidad en tus redes sociales y en cualquier sitio web que utilices</li>\n<li>Recuerda que todo lo que haces en línea deja un rastro digital.</li>\n<li>Habla con un adulto de confianza si te sientes incómodo/a o inseguro en<br />línea.</li>\n<li>Aprender a identificar el ciberacoso y cómo denunciarlo a las autoridades.</li>\n<li>Lee siempre los términos y condiciones de condiciones de cualquier sitio web o aplicación que utilices.</li>\n</ol>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/XnhB7_5tLr8\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/WXVsbFLUfIQ\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/oF0JKaJJFso\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/oF0JKaJJFso\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moso3wj2-4cv6fphqc</odePageId>
+      <odeBlockId>block-1777908790549-uqxgz2b6q</odeBlockId>
+      <blockName>Licencias y Seguridad</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moso3wj2-4cv6fphqc</odePageId>
+          <odeBlockId>block-1777908790549-uqxgz2b6q</odeBlockId>
+          <odeIdeviceId>idevice-1777908790547-09b08o4pu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://canva.link/ew7ms7b9a3hifu1"><strong title="">Tipos de licencias</strong></a></p>
+<p>La propiedad de cualquier recurso que encuentres publicado en Internet corresponde al autor que lo creó y subió. Las licencias son las herramientas que regulan el uso de dichos recursos...</p>
+<p><img src="{{context_path}}/content/resources/Materiales en red.JPG" width="265" height="188" alt="" /></p>
+<p>Las licencias Creative Commons (CC) son una serie de licencias de derechos<br />de autor que permiten a los creadores de obras autorizar el uso de sus obras<br />bajo ciertas condiciones.</p>
+<p><img src="{{context_path}}/content/resources/Creative commons.JPG" width="280" height="166" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777908790547-09b08o4pu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://canva.link/ew7ms7b9a3hifu1\"><strong title=\"\">Tipos de licencias</strong></a></p>\n<p>La propiedad de cualquier recurso que encuentres publicado en Internet corresponde al autor que lo creó y subió. Las licencias son las herramientas que regulan el uso de dichos recursos...</p>\n<p><img src=\"{{context_path}}/content/resources/Materiales en red.JPG\" width=\"265\" height=\"188\" alt=\"\" /></p>\n<p>Las licencias Creative Commons (CC) son una serie de licencias de derechos<br />de autor que permiten a los creadores de obras autorizar el uso de sus obras<br />bajo ciertas condiciones.</p>\n<p><img src=\"{{context_path}}/content/resources/Creative commons.JPG\" width=\"280\" height=\"166\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moso3wj5-3q3h04wog</odePageId>
+  <odeParentPageId>page-moso3wim-yh9qf0vsv</odeParentPageId>
+  <pageName>4._Secuencia didáctica</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4._Secuencia didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4._Secuencia didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4._Secuencia didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moso3wj5-3q3h04wog</odePageId>
+      <odeBlockId>block-1777909428355-r03uulksy</odeBlockId>
+      <blockName>Cuestionario Online</blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moso3wj5-3q3h04wog</odePageId>
+          <odeBlockId>block-1777909428355-r03uulksy</odeBlockId>
+          <odeIdeviceId>idevice-1777909428351-mfxlkvyi0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración (min):">Duración (min):</span></dt><dd>15</dd></div><div class="inline"><dt><span title="Individual">Individual</span></dt><dd>Toda la clase</dd></div></dl><p><br /></p>
+<table border="1" style="width: 100.053%; height: 218px;">
+<tbody>
+<tr style="height: 152.667px;">
+<td style="width: 49.9203%; height: 152.667px;"><strong>Criterio de evaluación</strong></td>
+<td style="width: 49.9203%; height: 152.667px;"><strong>AAPL. 2.2</strong><br />Manejar con precisión metodológica la terminología específica de las ciencias utilizadas para la descripción de los sistemas corporales y las funciones básicas que realizan.</td>
+</tr>
+<tr style="height: 32.6667px;">
+<td style="width: 49.9203%; height: 32.6667px;"><strong>Tiempo estimado</strong></td>
+<td style="width: 49.9203%; height: 32.6667px;">15 minutos</td>
+</tr>
+<tr style="height: 32.6667px;">
+<td style="width: 49.9203%; height: 32.6667px;"><strong>Herramienta y material a utilizar</strong></td>
+<td style="width: 49.9203%; height: 32.6667px;">
+<p>Ordenador portátil del centro  o tableta propia. </p>
+<p>Plataforma: <em>Google Forms</em></p>
+</td>
+</tr>
+</tbody>
+</table></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777909428351-mfxlkvyi0","textInfoDurationInput":"15","textInfoDurationTextInput":"Duración (min):","textInfoParticipantsInput":"Toda la clase","textInfoParticipantsTextInput":"Individual","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración (min):\">Duración (min):</span></dt><dd>15</dd></div><div class=\"inline\"><dt><span title=\"Individual\">Individual</span></dt><dd>Toda la clase</dd></div></dl><p><br /></p>\n<table border=\"1\" style=\"width: 100.053%; height: 218px;\">\n<tbody>\n<tr style=\"height: 152.667px;\">\n<td style=\"width: 49.9203%; height: 152.667px;\"><strong>Criterio de evaluación</strong></td>\n<td style=\"width: 49.9203%; height: 152.667px;\"><strong>AAPL. 2.2</strong><br />Manejar con precisión metodológica la terminología específica de las ciencias utilizadas para la descripción de los sistemas corporales y las funciones básicas que realizan.</td>\n</tr>\n<tr style=\"height: 32.6667px;\">\n<td style=\"width: 49.9203%; height: 32.6667px;\"><strong>Tiempo estimado</strong></td>\n<td style=\"width: 49.9203%; height: 32.6667px;\">15 minutos</td>\n</tr>\n<tr style=\"height: 32.6667px;\">\n<td style=\"width: 49.9203%; height: 32.6667px;\"><strong>Herramienta y material a utilizar</strong></td>\n<td style=\"width: 49.9203%; height: 32.6667px;\">\n<p>Ordenador portátil del centro  o tableta propia. </p>\n<p>Plataforma: <em>Google Forms</em></p>\n</td>\n</tr>\n</tbody>\n</table></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moso3wj5-3q3h04wog</odePageId>
+      <odeBlockId>block-1777909749322-pk1p45yc0</odeBlockId>
+      <blockName>Maqueta del corazón</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moso3wj5-3q3h04wog</odePageId>
+          <odeBlockId>block-1777909749322-pk1p45yc0</odeBlockId>
+          <odeIdeviceId>idevice-1777909749320-am8u6eds9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración (h)">Duración (h)</span></dt><dd>3:00</dd></div><div class="inline"><dt><span title="Grupos">Grupos</span></dt><dd>4-5 personas</dd></div></dl><table border="1" style="width: 100.053%;">
+<tbody>
+<tr>
+<td style="width: 49.9203%;"><strong>Criterios de evaluación</strong><br /></td>
+<td style="width: 49.9203%;">
+<p><strong>AAPL 1.3</strong></p>
+<p>Analizar y comprender los mecanismos básicos de funcionamiento de los aparatos y sistemas corporales, así como su asociación con otros en torno a sus funciones básicas aplicadas.</p>
+<p><br /><strong>AAPL. 3.2</strong></p>
+<p>Contrastar y justificar la información relacionada con los problemas habitualmente planteados que implican el conocimiento del funcionamiento del cuerpo humano, identificando creencias infundadas, bulos, falacias interesadas o simplemente, razonamientos no fundamentados. </p>
+<p><br /></p>
+</td>
+</tr>
+<tr>
+<td style="width: 49.9203%;"><strong>Tiempo estimado</strong></td>
+<td style="width: 49.9203%;">3 sesiones</td>
+</tr>
+<tr>
+<td style="width: 49.9203%;"><strong>Herramientas y material a utilizar</strong></td>
+<td style="width: 49.9203%;">Todo tipo de materiales: tijeras, pegamento, cartulinas y folios de colores, algodón, lanas, plastilina, silicona caliente…</td>
+</tr>
+</tbody>
+</table></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777909749320-am8u6eds9","textInfoDurationInput":"3:00","textInfoDurationTextInput":"Duración (h)","textInfoParticipantsInput":"4-5 personas","textInfoParticipantsTextInput":"Grupos","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración (h)\">Duración (h)</span></dt><dd>3:00</dd></div><div class=\"inline\"><dt><span title=\"Grupos\">Grupos</span></dt><dd>4-5 personas</dd></div></dl><table border=\"1\" style=\"width: 100.053%;\">\n<tbody>\n<tr>\n<td style=\"width: 49.9203%;\"><strong>Criterios de evaluación</strong><br /></td>\n<td style=\"width: 49.9203%;\">\n<p><strong>AAPL 1.3</strong></p>\n<p>Analizar y comprender los mecanismos básicos de funcionamiento de los aparatos y sistemas corporales, así como su asociación con otros en torno a sus funciones básicas aplicadas.</p>\n<p><br /><strong>AAPL. 3.2</strong></p>\n<p>Contrastar y justificar la información relacionada con los problemas habitualmente planteados que implican el conocimiento del funcionamiento del cuerpo humano, identificando creencias infundadas, bulos, falacias interesadas o simplemente, razonamientos no fundamentados. </p>\n<p><br /></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 49.9203%;\"><strong>Tiempo estimado</strong></td>\n<td style=\"width: 49.9203%;\">3 sesiones</td>\n</tr>\n<tr>\n<td style=\"width: 49.9203%;\"><strong>Herramientas y material a utilizar</strong></td>\n<td style=\"width: 49.9203%;\">Todo tipo de materiales: tijeras, pegamento, cartulinas y folios de colores, algodón, lanas, plastilina, silicona caliente…</td>\n</tr>\n</tbody>\n</table></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moso3wj5-3q3h04wog</odePageId>
+      <odeBlockId>block-1777909963007-90o4gjfeb</odeBlockId>
+      <blockName>Disección de un corazón</blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moso3wj5-3q3h04wog</odePageId>
+          <odeBlockId>block-1777909963007-90o4gjfeb</odeBlockId>
+          <odeIdeviceId>idevice-1777909963006-psgym4hl1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración (h)">Duración (h)</span></dt><dd>2:00</dd></div><div class="inline"><dt><span title="Grupos">Grupos</span></dt><dd>2-3 personas</dd></div></dl><table border="1" style="width: 100.053%;">
+<tbody>
+<tr>
+<td style="width: 49.9203%;"><strong>Criterios de evaluación</strong><br /></td>
+<td style="width: 49.9203%;">
+<p><strong>AAPL. 1.4</strong></p>
+<p>Manejar destrezas tales como el uso del microscopio y las técnicas de disección para una mejor comprensión de la anatomía humana.</p>
+<p><br /></p>
+</td>
+</tr>
+<tr>
+<td style="width: 49.9203%;"><strong>Tiempo estimado</strong></td>
+<td style="width: 49.9203%;">2 sesiones</td>
+</tr>
+<tr>
+<td style="width: 49.9203%;"><strong>Herramientas y material a utilizar</strong></td>
+<td style="width: 49.9203%;">
+<p>Material para disección: pinzas, tijeras, bisturí, guantes, bandeja…</p>
+<p>Órgano: corazón de cerdo</p>
+<p><br /></p>
+</td>
+</tr>
+</tbody>
+</table></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777909963006-psgym4hl1","textInfoDurationInput":"2:00","textInfoDurationTextInput":"Duración (h)","textInfoParticipantsInput":"2-3 personas","textInfoParticipantsTextInput":"Grupos","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración (h)\">Duración (h)</span></dt><dd>2:00</dd></div><div class=\"inline\"><dt><span title=\"Grupos\">Grupos</span></dt><dd>2-3 personas</dd></div></dl><table border=\"1\" style=\"width: 100.053%;\">\n<tbody>\n<tr>\n<td style=\"width: 49.9203%;\"><strong>Criterios de evaluación</strong><br /></td>\n<td style=\"width: 49.9203%;\">\n<p><strong>AAPL. 1.4</strong></p>\n<p>Manejar destrezas tales como el uso del microscopio y las técnicas de disección para una mejor comprensión de la anatomía humana.</p>\n<p><br /></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 49.9203%;\"><strong>Tiempo estimado</strong></td>\n<td style=\"width: 49.9203%;\">2 sesiones</td>\n</tr>\n<tr>\n<td style=\"width: 49.9203%;\"><strong>Herramientas y material a utilizar</strong></td>\n<td style=\"width: 49.9203%;\">\n<p>Material para disección: pinzas, tijeras, bisturí, guantes, bandeja…</p>\n<p>Órgano: corazón de cerdo</p>\n<p><br /></p>\n</td>\n</tr>\n</tbody>\n</table></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moso3wj5-3q3h04wog</odePageId>
+      <odeBlockId>block-1777910179867-dk10g74wm</odeBlockId>
+      <blockName>Trabajo de investigación</blockName>
+      <iconName>experiment</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moso3wj5-3q3h04wog</odePageId>
+          <odeBlockId>block-1777910179867-dk10g74wm</odeBlockId>
+          <odeIdeviceId>idevice-1777910179866-66o8zynl4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="exe-text-activity"><dl><div class="inline"><dt><span title="Duración (h):">Duración (h):</span></dt><dd>4:00</dd></div><div class="inline"><dt><span title="Grupos">Grupos</span></dt><dd>4-5 personas</dd></div></dl><table border="1" style="width: 100.053%; height: 98.0001px;">
+<tbody>
+<tr style="height: 32.6667px;">
+<td style="width: 49.9203%; height: 32.6667px;"><strong>Criterios de evaluación</strong><br /></td>
+<td style="width: 49.9203%; height: 32.6667px;">
+<p><strong>AAPL. 3.3</strong></p>
+<p>Mantener una actitud crítica y activa frente a informaciones contrarias a la salud individual y colectiva, y producir información favorable a los hábitos adecuados para la consecución de un estilo de vida saludable</p>
+<p><br /><strong>AAPL. 4.1</strong></p>
+<p>Planificar y poner en práctica proyectos activos, de impacto en su entorno social, imbricados en el cuidado de la salud y el fomento de estilos de vida activos</p>
+<p></p>
+</td>
+</tr>
+<tr style="height: 32.6667px;">
+<td style="width: 49.9203%; height: 32.6667px;"><strong>Tiempo estimado</strong></td>
+<td style="width: 49.9203%; height: 32.6667px;">4 sesiones</td>
+</tr>
+<tr style="height: 32.6667px;">
+<td style="width: 49.9203%; height: 32.6667px;"><strong>Herramientas y material a utilizar</strong></td>
+<td style="width: 49.9203%; height: 32.6667px;">
+<p>Ordenadores portátiles del centro o tabletas de uso individual. </p>
+<p><br />Plataformas o herramientas digitales:</p>
+<p>Búsqueda de información: <em>Google Académico</em><br /><em>Pubmed (artículos científicos)</em></p>
+<p>Elaboración de la presentación: <em>Canva o Genially</em><br /></p>
+</td>
+</tr>
+</tbody>
+</table></div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777910179866-66o8zynl4","textInfoDurationInput":"4:00","textInfoDurationTextInput":"Duración (h):","textInfoParticipantsInput":"4-5 personas","textInfoParticipantsTextInput":"Grupos","textTextarea":"<div class=\"exe-text-activity\"><dl><div class=\"inline\"><dt><span title=\"Duración (h):\">Duración (h):</span></dt><dd>4:00</dd></div><div class=\"inline\"><dt><span title=\"Grupos\">Grupos</span></dt><dd>4-5 personas</dd></div></dl><table border=\"1\" style=\"width: 100.053%; height: 98.0001px;\">\n<tbody>\n<tr style=\"height: 32.6667px;\">\n<td style=\"width: 49.9203%; height: 32.6667px;\"><strong>Criterios de evaluación</strong><br /></td>\n<td style=\"width: 49.9203%; height: 32.6667px;\">\n<p><strong>AAPL. 3.3</strong></p>\n<p>Mantener una actitud crítica y activa frente a informaciones contrarias a la salud individual y colectiva, y producir información favorable a los hábitos adecuados para la consecución de un estilo de vida saludable</p>\n<p><br /><strong>AAPL. 4.1</strong></p>\n<p>Planificar y poner en práctica proyectos activos, de impacto en su entorno social, imbricados en el cuidado de la salud y el fomento de estilos de vida activos</p>\n<p></p>\n</td>\n</tr>\n<tr style=\"height: 32.6667px;\">\n<td style=\"width: 49.9203%; height: 32.6667px;\"><strong>Tiempo estimado</strong></td>\n<td style=\"width: 49.9203%; height: 32.6667px;\">4 sesiones</td>\n</tr>\n<tr style=\"height: 32.6667px;\">\n<td style=\"width: 49.9203%; height: 32.6667px;\"><strong>Herramientas y material a utilizar</strong></td>\n<td style=\"width: 49.9203%; height: 32.6667px;\">\n<p>Ordenadores portátiles del centro o tabletas de uso individual. </p>\n<p><br />Plataformas o herramientas digitales:</p>\n<p>Búsqueda de información: <em>Google Académico</em><br /><em>Pubmed (artículos científicos)</em></p>\n<p>Elaboración de la presentación: <em>Canva o Genially</em><br /></p>\n</td>\n</tr>\n</tbody>\n</table></div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moso3wjc-mtshkdx8y</odePageId>
+  <odeParentPageId>page-moso3wim-yh9qf0vsv</odeParentPageId>
+  <pageName>5._Evaluación</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5._Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5._Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moso3wjc-mtshkdx8y</odePageId>
+      <odeBlockId>block-1777910887868-2d9zr0i5c</odeBlockId>
+      <blockName>Rúbrica</blockName>
+      <iconName>math</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moso3wjc-mtshkdx8y</odePageId>
+          <odeBlockId>block-1777910887868-2d9zr0i5c</odeBlockId>
+          <odeIdeviceId>idevice-1777910887867-4dzdmd27a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>PROYECTO DE INVESTIGACIÓN SOBRE PATOLOGÍAS </strong>.</p>
+<p>Con este instrumento se evalúa el grado de dominio y destreza en la investigación y búsqueda de información del alumnado, así como el buen uso de las TICs y desarrollo de la exposición oral.</p>
+<p><img src="{{context_path}}/content/resources/Rubrica.JPG" width="555" height="657" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777910887867-4dzdmd27a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>PROYECTO DE INVESTIGACIÓN SOBRE PATOLOGÍAS </strong>.</p>\n<p>Con este instrumento se evalúa el grado de dominio y destreza en la investigación y búsqueda de información del alumnado, así como el buen uso de las TICs y desarrollo de la exposición oral.</p>\n<p><img src=\"{{context_path}}/content/resources/Rubrica.JPG\" width=\"555\" height=\"657\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moso3wjc-mtshkdx8y</odePageId>
+      <odeBlockId>block-1777910947451-hw995sz3y</odeBlockId>
+      <blockName>Cuestionario online</blockName>
+      <iconName>math</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moso3wjc-mtshkdx8y</odePageId>
+          <odeBlockId>block-1777910947451-hw995sz3y</odeBlockId>
+          <odeIdeviceId>idevice-1777910947450-vm5ouooof</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>CUESTIONARIO ONLINE (Google Forms) – FINAL DE LA SDA.</strong></p>
+<p>Se obtendrá una calificación correspondiente a la adquisición de contenidos de la SdA. Hará media con el resto de las notas de la SdA.</p>
+<p><a href="https://docs.google.com/forms/d/1dWlWsqBnfumqJFYgRdnQ8qKemkco5kZHJVFsW9Mx6MY/edit?authuser=0" title="">https://docs.google.com/forms/d/1dWlWsqBnfumqJFYgRdnQ8qKemkco5kZHJVFsW9Mx6MY/edit?authuser=0</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777910947450-vm5ouooof","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>CUESTIONARIO ONLINE (Google Forms) – FINAL DE LA SDA.</strong></p>\n<p>Se obtendrá una calificación correspondiente a la adquisición de contenidos de la SdA. Hará media con el resto de las notas de la SdA.</p>\n<p><a href=\"https://docs.google.com/forms/d/1dWlWsqBnfumqJFYgRdnQ8qKemkco5kZHJVFsW9Mx6MY/edit?authuser=0\" title=\"\">https://docs.google.com/forms/d/1dWlWsqBnfumqJFYgRdnQ8qKemkco5kZHJVFsW9Mx6MY/edit?authuser=0</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moso3wjc-mtshkdx8y</odePageId>
+      <odeBlockId>block-1777911076035-rwrl4eovx</odeBlockId>
+      <blockName>Lista de cotejo</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moso3wjc-mtshkdx8y</odePageId>
+          <odeBlockId>block-1777911076035-rwrl4eovx</odeBlockId>
+          <odeIdeviceId>idevice-1777911076033-m24agy8k3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>FICHA DE AUTOEVALUACIÓN DE LA SITUACIÓN DE APRENDIZAJE. </strong></p>
+<p>Ellos serán conscientes de su propio aprendizaje, observando las dificultades que presentan para cambiar su metodología de cara a las siguientes SdA.</p>
+<p><img src="{{context_path}}/content/resources/lista de cotejo.JPG" width="522" height="681" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777911076033-m24agy8k3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>FICHA DE AUTOEVALUACIÓN DE LA SITUACIÓN DE APRENDIZAJE. </strong></p>\n<p>Ellos serán conscientes de su propio aprendizaje, observando las dificultades que presentan para cambiar su metodología de cara a las siguientes SdA.</p>\n<p><img src=\"{{context_path}}/content/resources/lista de cotejo.JPG\" width=\"522\" height=\"681\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moso3wjc-mtshkdx8y</odePageId>
+      <odeBlockId>block-1777911263506-40etitxhy</odeBlockId>
+      <blockName>Lista de valoración</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moso3wjc-mtshkdx8y</odePageId>
+          <odeBlockId>block-1777911263506-40etitxhy</odeBlockId>
+          <odeIdeviceId>idevice-1777911263505-s28vk6gl8</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>REGISTRO DEL CUADERNO DE CLASE PARA CADA SDA. </strong></p>
+<p>Con este instrumento se realiza una evaluación graduada del cuaderno del alumnado para cada SdA.</p>
+<p><img src="{{context_path}}/content/resources/lista de valoración.JPG" width="1173" height="493" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777911263505-s28vk6gl8","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>REGISTRO DEL CUADERNO DE CLASE PARA CADA SDA. </strong></p>\n<p>Con este instrumento se realiza una evaluación graduada del cuaderno del alumnado para cada SdA.</p>\n<p><img src=\"{{context_path}}/content/resources/lista de valoración.JPG\" width=\"1173\" height=\"493\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moso3wjh-91wimvqi6</odePageId>
+  <odeParentPageId>page-moso3wim-yh9qf0vsv</odeParentPageId>
+  <pageName>6._Línea temporal</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6._Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6._Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moso3wjh-91wimvqi6</odePageId>
+      <odeBlockId>block-1777911524382-4ma47ya0y</odeBlockId>
+      <blockName>Temporalización SdA</blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moso3wjh-91wimvqi6</odePageId>
+          <odeBlockId>block-1777911524382-4ma47ya0y</odeBlockId>
+          <odeIdeviceId>idevice-1777911524381-lv6ffjm0y</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://canva.link/dzkyqumzdehxem7" title="">https://canva.link/dzkyqumzdehxem7</a></p>
+<p><img src="{{context_path}}/content/resources/parte 1.JPG" width="551" height="501" alt="" /></p>
+<p><img src="{{context_path}}/content/resources/parte 2.JPG" width="555" height="695" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777911524381-lv6ffjm0y","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://canva.link/dzkyqumzdehxem7\" title=\"\">https://canva.link/dzkyqumzdehxem7</a></p>\n<p><img src=\"{{context_path}}/content/resources/parte 1.JPG\" width=\"551\" height=\"501\" alt=\"\" /></p>\n<p><img src=\"{{context_path}}/content/resources/parte 2.JPG\" width=\"555\" height=\"695\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moso3wjj-yz8rwdjsc</odePageId>
+  <odeParentPageId>page-moso3wim-yh9qf0vsv</odeParentPageId>
+  <pageName>7._Créditos</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7._Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7._Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>7._Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moso3wjj-yz8rwdjsc</odePageId>
+      <odeBlockId>block-1777912477158-af8xd6ozt</odeBlockId>
+      <blockName>Autoría</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moso3wjj-yz8rwdjsc</odePageId>
+          <odeBlockId>block-1777912477158-af8xd6ozt</odeBlockId>
+          <odeIdeviceId>idevice-1777912477157-0c6jsmbv7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/creditos.JPG" width="1104" height="803" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777912477157-0c6jsmbv7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/creditos.JPG\" width=\"1104\" height=\"803\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moso3wjj-yz8rwdjsc</odePageId>
+      <odeBlockId>block-1777987227480-qzo5qplop</odeBlockId>
+      <blockName>Enlace</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moso3wjj-yz8rwdjsc</odePageId>
+          <odeBlockId>block-1777987227480-qzo5qplop</odeBlockId>
+          <odeIdeviceId>idevice-1777987227478-w941gzzxb</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>sda-el-sistema-circulatorio_web.zip</p>
+<p><a href="{{context_path}}/content/resources/sda-el-sistema-circulatorio.elpx" title="sda-el-sistema-circulatorio.elpx">sda-el-sistema-circulatorio.elpx</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777987227478-w941gzzxb","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>sda-el-sistema-circulatorio_web.zip</p>\n<p><a href=\"{{context_path}}/content/resources/sda-el-sistema-circulatorio.elpx\" title=\"sda-el-sistema-circulatorio.elpx\">sda-el-sistema-circulatorio.elpx</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moso3wjv-bbyd0gswu</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PLATAFORMA CLASE</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PLATAFORMA CLASE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PLATAFORMA CLASE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moso3wjv-bbyd0gswu</odePageId>
+      <odeBlockId>block-1777911927025-tpl4i9asj</odeBlockId>
+      <blockName>Plataforma Classroom</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moso3wjv-bbyd0gswu</odePageId>
+          <odeBlockId>block-1777911927025-tpl4i9asj</odeBlockId>
+          <odeIdeviceId>idevice-1777911927024-ycehi790k</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://classroom.google.com/c/ODE5MjY5MDk2NTY4?cjc=pp4jgm52" title=""><img src="{{context_path}}/content/resources/classroom.JPG" width="1280" height="679" alt="" /></a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777911927024-ycehi790k","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://classroom.google.com/c/ODE5MjY5MDk2NTY4?cjc=pp4jgm52\" title=\"\"><img src=\"{{context_path}}/content/resources/classroom.JPG\" width=\"1280\" height=\"679\" alt=\"\" /></a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
